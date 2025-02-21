@@ -12,7 +12,7 @@ About Me
 
 🌟 Constantly learning and evolving to stay ahead in the fast-growing world of AI and technology.
 
-🌐 Explore my Portfolio to see my projects.
+🌐 Explore my [Portfolio](https://www.canva.com/design/DAGe5PMVPaQ/EaMVNlkMW0t8uRwMDAHrfg/edit?utm_content=DAGe5PMVPaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to see my projects.
 
 📄 Check out my [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).
 
