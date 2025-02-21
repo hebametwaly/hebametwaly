@@ -13,5 +13,5 @@ As a Computer Science student majoring in AI and Data Science, I am passionate a
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/heba-ahmed-a00b32350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>
 
-Languages:
+## Languages:
 C++, Python, SQL
