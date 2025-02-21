@@ -17,7 +17,7 @@ About Me
 📄 Check out my [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).
 
 Connect with Me
-LinkedIn: (https://www.linkedin.com/in/heba-ahmed-a00b32350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](https://www.linkedin.com/in/heba-ahmed-a00b32350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Languages:
 Python
