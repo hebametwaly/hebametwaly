@@ -4,15 +4,10 @@ As a Computer Science student majoring in AI and Data Science, I am passionate a
 
 About Me
 🖥️ Computer Science Student majoring in AI and Data Science, passionate about exploring intelligent systems.
-
 🤖 Machine Learning & AI Enthusiast working on data analysis, data science, AI algorithms, and machine learning models.
-
 🐍 Python & SQL Developer with experience in data manipulation, analysis, and database management.
-
 🌟 Constantly learning and evolving to stay ahead in the fast-growing world of AI and technology.
-
 🌐 Explore my Portfolio to see my projects.
-
 📄 Check out my [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).
 
 Connect with Me
