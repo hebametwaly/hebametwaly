@@ -3,17 +3,15 @@ As a Computer Science student majoring in AI and Data Science, I am passionate a
 
 
 ## About Me
-
-🖥️ Computer Science Student majoring in AI and Data Science, passionate about exploring intelligent systems.\n
-🤖 Machine Learning & AI Enthusiast working on data analysis, data science, AI algorithms, and machine learning models.\n
-🐍 Python & SQL Developer with experience in data manipulation, analysis, and database management.\n
-🌟 Constantly learning and evolving to stay ahead in the fast-growing world of AI and technology.\n
-🌐 Explore my [Portfolio](https://www.canva.com/design/DAGe5PMVPaQ/EaMVNlkMW0t8uRwMDAHrfg/edit?utm_content=DAGe5PMVPaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to see my projects.\n
-📄 Check out my [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).\n
+🖥️ Computer Science Student majoring in AI and Data Science, passionate about exploring intelligent systems.<br>
+🤖 Machine Learning & AI Enthusiast working on data analysis, data science, AI algorithms, and machine learning models.<br>
+🐍 Python & SQL Developer with experience in data manipulation, analysis, and database management.<br>
+🌟 Constantly learning and evolving to stay ahead in the fast-growing world of AI and technology.<br>
+🌐 Explore my [Portfolio](https://www.canva.com/design/DAGe5PMVPaQ/EaMVNlkMW0t8uRwMDAHrfg/edit?utm_content=DAGe5PMVPaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to see my projects.<br>
+📄 Check out my [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).<br>
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/heba-ahmed-a00b32350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)\n
+[LinkedIn](https://www.linkedin.com/in/heba-ahmed-a00b32350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>
 
 Languages:
-Python,
-SQL
+C++, Python, SQL
