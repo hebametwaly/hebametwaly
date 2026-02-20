@@ -7,7 +7,7 @@ Computer Science student at E-JUST majoring in AI & Data Science. Passionate abo
 🤖 Building intelligent systems through data analysis, AI algorithms, and ML models.<br>
 🐍 Experienced in deep learning projects, transformers, RL agents, and Python/PyTorch.<br>
 🌟 Constantly learning and evolving to stay ahead in the fast-growing world of AI and technology.<br>
-🌐 [Portfolio](https://www.canva.com/design/DAGe5PMVPaQ/EaMVNlkMW0t8uRwMDAHrfg/edit?utm_content=DAGe5PMVPaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to see my projects.<br>
+🌐 [Portfolio](https://www.canva.com/design/DAGe5PMVPaQ/EaMVNlkMW0t8uRwMDAHrfg/edit?utm_content=DAGe5PMVPaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).<br>
 📄 [CV](https://drive.google.com/file/d/1qCwhoCb5ePsP_wmDScdev_OZjkSwfFck/view?usp=drive_link).<br>
 
 ## Connect
